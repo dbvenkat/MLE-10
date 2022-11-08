@@ -1,12 +1,3 @@
-# dats files
-bank-4k/
-bank-names.txt
-bank-full.csv
-bank.csv
-
-# Reddit secrets
-secrets_reddit.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
