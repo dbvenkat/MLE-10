@@ -140,3 +140,12 @@ dmypy.json
 # Mac DS_Store
 .DS_Store
 
+# Reddit secrets
+secrets_reddit.py
+
+# dats files
+bank-4k/
+bank-names.txt
+bank-full.csv
+bank.csv
+
